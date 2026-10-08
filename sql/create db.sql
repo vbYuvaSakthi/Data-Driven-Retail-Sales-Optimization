@@ -1,0 +1,2 @@
+CREATE DATABASE adventureworks_retail_dw;
+USE adventureworks_retail_dw;
